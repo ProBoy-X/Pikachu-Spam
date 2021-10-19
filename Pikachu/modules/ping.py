@@ -42,5 +42,5 @@ async def _(event):
     uptime = get_readable_time((time.time() - Lastupdate))
     await tgbot.send_message(
         event.chat_id,
-        f"**🧤 ƤOƝG.!! 🧤**\n »»» `{ms}` \n »»» `{uptime}`",
+        f"**🧤 ＰＯＮＧ．！！ 🧤**\n »»» `{ms}` \n »»» `{uptime}`",
     )
