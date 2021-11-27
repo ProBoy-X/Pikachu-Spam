@@ -101,4 +101,4 @@ async def get_users(event):
             error = str(e)
             f = f + 1
     return await rkp.edit(
-        f"ᴄʜᴜʀᴀ ʟɪʏᴇ ᴍᴇᴍʙᴇʀs..😎 ᴀʙʙ @Iᴛs_JᴀssMᴀɴᴀᴋ ᴋᴏ 150$ sᴇɴᴅ ᴋʀᴏ\n\n• ɪɴᴠɪᴛᴇᴅ »»» `{s}`  \n• ғᴀɪʟᴇᴅ ᴛᴏ ɪɴᴠɪᴛᴇ »»» `{f}` "
+        f"ᴄʜᴜʀᴀ ʟɪʏᴇ ᴍᴇᴍʙᴇʀs..😎 ᴀʙʙ [ᴊᴀss ʙʜᴀɪʏᴀ](https://t.me/abra_ka_dabra_gili_gili_chuu) ᴋᴏ 150$ sᴇɴᴅ ᴋʀᴏ\n\n• ɪɴᴠɪᴛᴇᴅ »»» `{s}`  \n• ғᴀɪʟᴇᴅ ᴛᴏ ɪɴᴠɪᴛᴇ »»» `{f}` "
