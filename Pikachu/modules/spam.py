@@ -246,7 +246,7 @@ async def spammer(e):
     cat = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
     counter = int(cat[0])
     if counter > 50:
-        return await edit_or_reply(e, "Use `.bigspam` for spam greater than 50")
+        return await edit_or_reply(e, "50 sᴇ ᴊʏᴀᴅᴀ ᴋᴇ sᴘᴀᴍ ᴋᴇ ʟɪʏᴇ /ʙɪɢsᴘᴀᴍ ᴜsᴇ ᴋʀ ᴠᴀɪɪ..📍")
     if len(cat) == 2:
         spam_message = str(("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)[1])
         await e.delete()
