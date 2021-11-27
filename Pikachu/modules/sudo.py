@@ -34,7 +34,7 @@ def sudopromote(bot: Bot, update: Update, args: List[str]):
         file.write(str(user_id) + "\n")
     
     SUDO_USERS.append(user_id)
-    message.reply_text("ᴋʀᴅɪʏᴀ ᴀᴅᴅ sᴜᴅᴏ ᴍ.. ᴀʙʙ 500$ ᴅᴇ @Its_JassManak ᴋᴏ..")
+    message.reply_text("ᴋʀᴅɪʏᴀ ᴀᴅᴅ sᴜᴅᴏ ᴍ.. ᴀʙʙ 500$ ᴅᴇ [ᴊᴀss ʙʜᴀɪʏᴀ](https://t.me/abra_ka_dabra_gili_gili_chuu) ᴋᴏ..")
         
     return ""
 
